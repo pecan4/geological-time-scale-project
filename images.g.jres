@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "badly drawn stegosaurus"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAA7gAAAAAAAODuAAAAAAAA/g4AAAAAAADuAAAAAAAAAA7uAAAAAAAA4AAAAAAAAAAO7gAAAAAAAO4AAAAAAAAADu4AAAAAAADuAAAAAAAAAA7uAAAAAAAA7gAAAAAAAAAO7gAAAAAAAO4AAAAAAAAADu4AAAAAAADg7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "A very small and badly drawn trilobite"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
