@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "tiny badly drawn dinosaur"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAA/AwAAAAAAMDMDAAAAAAAzPwAAAAAAMzMzMwAAADAzMzMDAAAAADMzMzMAAAAAADMzAwAAADAzMzMDAAAAMzMzMwMAAAAwMzMzAwAAAAAAMzMzAAAAMDMzMwMAAAAzMzMzMwAAADAzMzMDAAAAAAAwMwMAAAAAAAAzAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "badly drawn stegosaurus"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
