@@ -19,6 +19,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "lil bacteria"
     },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAYAYAAAAABgAGAAYAAABgYAAABgAAAGZgAGYAAAAAdgZgAAAAAABndmAAAAAAcHdnBgAGAABnZ2cHZgAAcGZ3d2YAAABwd2cHAAAAAABndgAAAAAAAHAHAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "A plankton"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
