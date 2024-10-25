@@ -3,25 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image1":
-            case "tiny badly drawn dinosaur":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . b b c . . . . . . . 
-. . . . . b b c b b b b . . . . 
-. . . . b b c b b f b b b b b . 
-. . . . b c b b b b b b b . . . 
-. . . . b c b b b b b . . . . . 
-. . . . b c b b b b . . . . . . 
-. . . b c b b b b b b b . . . . 
-. . . b c b b b b b . . b . . . 
-. . b c b b b b b b . . . . . . 
-c c c b b b b b b . . . . . . . 
-. . . . b b b b . . . . . . . . 
-. . . . b . . b . . . . . . . . 
-. . . . b . . b . . . . . . . . 
-. . . . b b . b b . . . . . . . 
-`;
             case "image2":
             case "badly drawn stegosaurus":return img`
 . . . . . . . . . . . . . . . . 
@@ -124,6 +105,25 @@ e e . . e . e . e . e . e . e e
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
+`;
+            case "image1":
+            case "tiny badly drawn therapod":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . b b c . . . . . . . 
+. . . . . b b c b b b b . . . . 
+. . . . b b c b b f b b b b b . 
+. . . . b c b b b b b b b . . . 
+. . . . b c b b b b b . . . . . 
+. . . . b c b b b b . . . . . . 
+. . . b c b b b b b b b . . . . 
+. . . b c b b b b b . . b . . . 
+. . b c b b b b b b . . . . . . 
+c c c b b b b b b . . . . . . . 
+. . . . b b b b . . . . . . . . 
+. . . . b . . b . . . . . . . . 
+. . . . b . . b . . . . . . . . 
+. . . . b b . b b . . . . . . . 
 `;
         }
         return null;
